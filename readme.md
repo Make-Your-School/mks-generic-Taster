@@ -1,4 +1,3 @@
-
 ---
 title: "Taster/Knopf"
 date: "2018-10-01T14:48:30.000Z"
