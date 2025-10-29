@@ -13,9 +13,6 @@ repo_manufacture: "generic"
 repo_part: "Taster"
 clone_url: "https://github.com/Make-Your-School/mks-generic-Taster.git"
 embedded_example_file: "examples/Taster_minimal/Taster_minimal.ino"
-title: 'Taster/Knopf'
-status: 'active'
-difficulty: 'advanced'
 ---
 
 
